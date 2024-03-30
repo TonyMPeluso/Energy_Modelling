@@ -1,9 +1,7 @@
-#pkgs.desired <- c("networkD3","lpSolve", "purrr");
-#myRepoURL <- "file:////fld6filer/packagerepo-depotprogiciel/miniCRAN/";
-#install.packages(
-#  pkgs  = pkgs.desired,
-#  repos = myRepoURL
-#);
+# 
+# Regional electricity model to simulate generation, loads (with time slices), imports, exports and battery storage
+# using linear program to solve for cost minimization
+#
 install.packages("networkD3")
 install.packages("lpsolve")
 install.packages("purrr")
