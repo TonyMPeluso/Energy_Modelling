@@ -1,1 +1,2 @@
-This program is meant to model a small-scale energy system, by minimizing costs (via linear programming) for the production, import, storage and use of diesel and electricity, based on differing time slices of electricity demand occuring throughout the day. This program has not been completed yet. It will eventually be converted into R Markdown.
+This project simulates, using Python code, investments by an electric utility.
+It features a dashboard to simulate different investment criteria
